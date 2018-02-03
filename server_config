@@ -1,0 +1,10 @@
+<?php 
+
+//connection info
+$host = 'localhost';
+$user = 'root';
+$password = '1995
+db = 'IT490';
+
+
+?>
